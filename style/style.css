@@ -484,7 +484,7 @@ nav ul li a:hover{
 	position: absolute;
 	font-family: 'Dosis', sans-serif;
 	color: white;
-	top: 100%;
+	top: 95%;
 	right: 19%;
 	font-size: 24px;
 	text-transform: uppercase;
@@ -632,7 +632,14 @@ color: white;
 	font-family: 'Dosis', sans-serif;
 	left: 15%;
 	top: 445%;
+	padding: 10px;
 	font-size: 26px;
+	
+}
+.food p:hover{
+	color: white;
+	background-color: rgba(2,2,2,0.6);
+	border-radius: 10px;
 	
 }
 
