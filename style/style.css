@@ -293,19 +293,19 @@ nav ul li a:hover{
 	border: 5px cornsilk solid;
 	border-top-left-radius: 25px;
 	border-bottom-right-radius: 25px;
-	background-color: rgba(132,191,332,0.5)
+	background-color: rgba(102,101,132,0.2)
 	
 	
 	
 }
 
 .intro h2:hover{
-	background-color: rgba(20,50,210,0.7);
+	background-color: rgba(1,1,1,0.6);
 	border-top-right-radius: 25px;
 	border-top-left-radius: 0px;
 	border-bottom-left-radius: 25px;
 	border-bottom-right-radius: 0px;
-	color: aqua;
+	color: white;
 		
 }
 .intro h3{
@@ -401,10 +401,7 @@ nav ul li a:hover{
 		background-size: cover;
 	}
 
-.credit{
-	position: absolute;
-	top: 165%
-}
+
 .coming_soon h1{
 	position: absolute;
 	font-family: 'Dosis', sans-serif;
